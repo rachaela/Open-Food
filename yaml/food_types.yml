@@ -163,6 +163,7 @@ FoodTypes:
       - Huckleberry
       - Kiwi
       - Lemon
+      - Lime
       - Loganberry
       - Loquat
       - Mandarine
@@ -229,6 +230,7 @@ FoodTypes:
         - Chocolate
         - Fudge
       - Sunflower Seeds
+      - Flax Seed
       - Sesame Seeds
       - Pumpkin Seeds
       - Poppy Seeds
@@ -458,7 +460,27 @@ FoodTypes:
       - Ti Plant
       - Tinda
       - Tomatillo
-      - Tomato
+      - Tomato:
+          - Better Boy Tomato
+          - Beefsteak Tomato:
+              - Big Beef Tomato
+              - Brandywine Tomato
+              - Mortgage Lifter Tomato
+              - Ponderosa Pink Tomato
+          - Cherokee Purple Tomato
+          - Cherry Tomato:
+              - Sungold Tomato
+              - Black Cherry Tomato
+          - Plum Tomato:
+              - Roma Tomato
+              - San Marzano Tomato
+          - Salad Tomato:
+              - Arkansas Traveler Tomato
+              - Cherokee Purple Tomato
+              - Early Girl Tomato
+              - Green Zebra Tomato
+              - Moneymaker Tomato
+              - Zorba Tomato
       - Turkish Turban Squash
       - Turnip
       - Ulluco
@@ -498,6 +520,8 @@ FoodTypes:
         - Seasoned Salt
   - Processed:
     - Bread
+    - Flour:
+        - 00 Flour
     - Pastry:
         - Pie
         - Cookie
@@ -526,6 +550,7 @@ FoodTypes:
         - Sandwich
         - Taco
         - Pizza
+        - Bagel
     - Oils:
         - Avocado Oil
         - Canola Oil
