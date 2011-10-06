@@ -30,7 +30,7 @@ FoodTypes:
               - Pink Salmon
           - Halibut
           - Lingcod
-          - Rockfish
+          - Rockfish:
               - Canary Rockfish
           - Sablefish (Black Cod)
           - Tuna:
