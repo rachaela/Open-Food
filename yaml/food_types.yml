@@ -319,7 +319,7 @@ FoodTypes:
         - Kaffir
         - Lavendar
         - Lemon Balm
-        - Lemon Grass
+        - Lemongrass
         - Lemon Verbena
         - Fennel/Licorice
         - Lovage
@@ -489,13 +489,13 @@ FoodTypes:
       - Water Chestnut
       - Water Cress
       - Water Spinach
-      - Welsh Onion or Scallions (spring onion)   
+      - Spring Onion (Scallion or Welsh Onion) 
       - Winter Melon (ash or white gourd)   
       - Winter Purslane
       - Winter Squash
       - Yacon
       - Yam
-      - Zucchini
+      - Zucchini (Courgette)
       - Zucchini Blossoms
   - Spices:
     - Salt:
