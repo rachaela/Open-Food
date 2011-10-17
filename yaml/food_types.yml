@@ -28,18 +28,130 @@ FoodTypes:
               - Spring Salmon
               - Ivory Salmon
               - Pink Salmon
-          - Halibut
+              - Wild Pacific Salmon
+              - Farmed (Net Pen) Salmon
+              - Wild Pacific B.C. Salmon
+              - Farmed (Closed Containment) Salmon
+          - Halibut:
+            - Pacific Halibut
+            - Atlantic Halibut
+            - Greenland Halibut
           - Lingcod
           - Rockfish:
               - Canary Rockfish
+          - Cod: 
+            - Pacific Cod
+            - Atlantic Cod
           - Sablefish (Black Cod)
           - Tuna:
+              - Bigeye Tuna
               - Albacore Tuna
+              - Skipjack Tuna
+              - Yellowfin Tuna
+              - Bluefin Tuna:
+                - Atlantic Tuna
+                - Southern Tuna
+                - Pacific Tuna
+          - Sole: 
+              - Rex Sole
+              - Dover Sole
+              - English Sole
+              - Petrale Sole
+              - Rock Sole
+              - Yellowfin Sole
+          - Herring: 
+            - Pacific Herring
+            - Atlantic Herring
+          - Hake: 
+            - Pacific
+          - Catfish: 
+            - Channel Catfish
+          - Pollock: 
+            - Walleye Pollock
+          - Trout: 
+            - Rainbow Trout
+          - Sardine: 
+            - Pacific Sardine
+          - Flounder: 
+            - Arrowtooth Flounder
+          - Sanddab: 
+            - Pacific Sanddab
+          - Sturgeon: 
+            - White Sturgeon
+            - Wild Sturgeon
+            - Farmed Sturgeon
+          - Dogfish: 
+            - Spiny Dogfish
+          - Grenadier: 
+            - Smooth Grenadier
+            - Popeye Grenadier
+            - Pacific Grenadier
+          - Skate: 
+            - Longnose and Big Skate
+            - Smooth Skate
+            - Atlantic Skate
+          - Eel: 
+            - Freshwater Eel
+          - Mackerel: 
+            - King and Spanish Mackerel
+          - Bass: 
+            - Striped Bass
+            - Striped Bass
+            - Black Sea Bass
+          - Snapper: 
+            - Red Snapper
+            - Gray Snapper
+          - Marlin: 
+            - Blue Marlin
+            - Striped Marlin
+        - Urchin: 
+          - Red Sea Urchin
         - Shellfish:
-          - Oyster
-          - Mussels
-          - Spot Prawn
-          - Crab
+          - Oyster:
+            - Wild Oyster
+            - Farmed Oyster
+          - Mussels:
+            - Farmed Mussels
+            - Wild Mussels
+            - Clams: 
+              - US Atlantic Clams
+              - Atlantic surf Clams
+              - Northern Propellor Clams
+              - Arctic Surf Clams
+              - Farmed Clams
+              - Soft Clams
+              - Pacific Geoduck Clams
+          - prawn: 
+            - Spot Prawn
+          - Crab:
+            - Snow Crab
+            - Dungeness Crab
+            - King Crab
+            - Blue Crab
+          - Lobster: 
+            - Spiny Lobster
+            - American Lobster
+            - Caribbean spiny Lobster
+          - Shrimp: 
+            - Warmwater Shrimp
+            - Warmwater Shrimp
+            - Northern Shrimp
+            - Pink Shrimp
+            - Farmed Shrimp
+            - Farmed (White) Shrimp
+            - Farmed (freshwater) Shrimp
+        - Scallops: 
+          - Wild Scallops
+          - Farmed Scallops
+        - Octopus: 
+          - Day Octopus
+          - Common Octopus
+        - Squid: 
+          - Long-finned Squid
+          - Short-finned Squid
+          - Jumbo Squid
+          - Argentine shortfin Squid
+          - Japanese Flying Squid
     - Dairy:
       - Cheese:
         - Blue Vein Cheese
