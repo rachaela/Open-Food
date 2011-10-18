@@ -31,7 +31,6 @@ FoodTypes:
               - Wild Pacific Salmon
               - Farmed (Net Pen) Salmon
               - Wild Pacific B.C. Salmon
-              - Farmed (Closed Containment) Salmon
           - Halibut:
             - Pacific Halibut
             - Atlantic Halibut
@@ -78,8 +77,6 @@ FoodTypes:
             - Pacific Sanddab
           - Sturgeon: 
             - White Sturgeon
-            - Wild Sturgeon
-            - Farmed Sturgeon
           - Dogfish: 
             - Spiny Dogfish
           - Grenadier: 
@@ -93,9 +90,10 @@ FoodTypes:
           - Eel: 
             - Freshwater Eel
           - Mackerel: 
-            - King and Spanish Mackerel
+            - King Mackerel 
+            - Spanish Mackerel
+            - Horse Mackerel
           - Bass: 
-            - Striped Bass
             - Striped Bass
             - Black Sea Bass
           - Snapper: 
@@ -108,17 +106,12 @@ FoodTypes:
           - Red Sea Urchin
         - Shellfish:
           - Oyster:
-            - Wild Oyster
-            - Farmed Oyster
           - Mussels:
-            - Farmed Mussels
-            - Wild Mussels
             - Clams: 
               - US Atlantic Clams
               - Atlantic surf Clams
               - Northern Propellor Clams
               - Arctic Surf Clams
-              - Farmed Clams
               - Soft Clams
               - Pacific Geoduck Clams
           - prawn: 
@@ -131,18 +124,14 @@ FoodTypes:
           - Lobster: 
             - Spiny Lobster
             - American Lobster
-            - Caribbean spiny Lobster
+            - Caribbean Spiny Lobster
           - Shrimp: 
-            - Warmwater Shrimp
             - Warmwater Shrimp
             - Northern Shrimp
             - Pink Shrimp
-            - Farmed Shrimp
-            - Farmed (White) Shrimp
-            - Farmed (freshwater) Shrimp
+            - White Shrimp
+            - freshwater Shrimp
         - Scallops: 
-          - Wild Scallops
-          - Farmed Scallops
         - Octopus: 
           - Day Octopus
           - Common Octopus
