@@ -63,8 +63,11 @@ FoodTypes:
             - Atlantic Herring
           - Hake: 
             - Pacific
+            - Haddock
           - Catfish: 
             - Channel Catfish
+            - Basa
+            - Tra
           - Pollock: 
             - Walleye Pollock
           - Trout: 
@@ -73,6 +76,7 @@ FoodTypes:
             - Pacific Sardine
           - Flounder: 
             - Arrowtooth Flounder
+            - Atlantic Flounder
           - Sanddab: 
             - Pacific Sanddab
           - Sturgeon: 
@@ -96,12 +100,29 @@ FoodTypes:
           - Bass: 
             - Striped Bass
             - Black Sea Bass
+            - Chilean Seabass
+            - Barramundi
           - Snapper: 
             - Red Snapper
             - Gray Snapper
           - Marlin: 
             - Blue Marlin
             - Striped Marlin
+          - Monkfish
+          - Tilapia
+          - Swordfish
+          - Shark
+          - Orange Roughy
+          - Mahi Mahi
+          - Paddlefish
+          - Arctic Char
+          - Yellowtail
+          - Capelin
+          - Red Porgy
+          - Bluefish
+          - Bluenose
+          - Wahoo
+          - Cobia
         - Urchin: 
           - Red Sea Urchin
         - Shellfish:
@@ -135,12 +156,16 @@ FoodTypes:
         - Octopus: 
           - Day Octopus
           - Common Octopus
+          - Octopus (Gulf of California)
         - Squid: 
           - Long-finned Squid
           - Short-finned Squid
           - Jumbo Squid
           - Argentine shortfin Squid
           - Japanese Flying Squid
+        - Caviar
+        - Abalone
+        - Imitation Crab
     - Dairy:
       - Cheese:
         - Blue Vein Cheese
