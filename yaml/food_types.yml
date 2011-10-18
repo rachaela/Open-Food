@@ -126,7 +126,7 @@ FoodTypes:
         - Urchin: 
           - Red Sea Urchin
         - Shellfish:
-          - Oyster:
+          - Oyster
           - Mussels:
             - Clams: 
               - US Atlantic Clams
