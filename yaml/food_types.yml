@@ -189,11 +189,14 @@ FoodTypes:
         - Water Buffalo Milk
       - Sour Cream
       - Yogurt
+      - Cream
+      - Creme Fraiche
     - Eggs:
       - Chicken Eggs
       - Duck Eggs
       - Quail Eggs
-    - Honey
+    - Honey:
+      - Honeycomb
   - Beverage:
     - Alcohol:
       - Beer:
@@ -256,6 +259,7 @@ FoodTypes:
   - Fungi:
     - Mushrooms:
       - Chanterelle Mushroom
+      - Chicken of the Woods Mushroom
       - Crimini Mushroom
       - Black Trumpet Mushroom
       - Lobster Mushroom
@@ -266,6 +270,10 @@ FoodTypes:
       - Portobello Mushroom
       - Reishi Mushroom
       - Shiitake Mushroom
+      - Shimeji Mushroom
+      - Enoki Mushroom
+      - Abalone Mushroom
+      - Hedgehog Mushroom
     - Yeast
     - Truffle
   - Plant:
@@ -282,7 +290,10 @@ FoodTypes:
       - Chokeberry
       - Cranberry
       - Currant
-      - Fig
+      - Date
+      - Fig:
+        - Adriatic Fig
+        - Black Mission Fig
       - Gooseberry
       - Grape
       - Greengage
@@ -298,11 +309,13 @@ FoodTypes:
       - Melon
       - Nectarine
       - Orange
+      - Passionfruit
       - Peach
       - Pear
       - Perssimon
       - Pineapple
       - Plum
+      - Pluot
       - Pomegranate
       - Pommelo
       - Quince
@@ -321,8 +334,13 @@ FoodTypes:
         - Maize
         - Millet
         - Oats
-        - Quinoa
-        - Rice
+        - Quinoa:
+          - Black Quinoa
+          - Red Quinoa
+        - Rice:
+          - Brown Rice
+          - Basmati Rice
+          - Jasmine Rice
         - Rye
         - Sorghum
         - Teff
@@ -337,6 +355,7 @@ FoodTypes:
           - Soft Red Winter Wheat
           - Soft White Wheat
           - Spelt Wheat
+          - Wheat Berry
         - Wild Rice
       - Sugar Cane:
         - Molasses
@@ -384,8 +403,10 @@ FoodTypes:
       - Bok Choy
       - Broadleaf Arrowhead
       - Broccoli
+      - Broccoli Romanesco
       - Brussels Sprout
       - Cabbage
+      - Cactus
       - Caigua
       - Canna
       - Cardoon
@@ -406,7 +427,9 @@ FoodTypes:
       - Cucumber
       - Daikon
       - Dandelion Greens
-      - Eggplant (Aubergine)   
+      - Eggplant (Aubergine):
+        - Thai Green Eggplant
+        - Japanese Eggplant
       - Elephant Garlic
       - Endive
       - English Peas
@@ -440,6 +463,7 @@ FoodTypes:
         - Chicory
         - Cilantro
         - Dill
+        - Elderberries
         - Garlic Blossoms
         - Garlic Scapes
         - Kaffir
@@ -452,6 +476,7 @@ FoodTypes:
         - Marjoram
         - Oregano
         - Peppermint
+        - Pineapple Mint
         - Rosemary
         - Sage
         - Savory
@@ -483,6 +508,7 @@ FoodTypes:
         - Carob
         - Chickpea
         - Common Bean
+        - Cranberry Bean
         - Drumstick
         - Edamame (green soybean)
         - Fava Bean
@@ -517,10 +543,13 @@ FoodTypes:
         - Salad Greens
         - Romaine
         - Boston Leaf 
+        - Fava Tips
+        - Pea Shoots
       - Lotus Roots
       - Luffa
       - Malabar Gourd
       - Mizuna Greens (Japanese mustard)
+      - Mustard Greens
       - Nasturtium
       - Nettles
       - Nopal
@@ -533,13 +562,18 @@ FoodTypes:
       - Pignut
       - Pointed Gourd
       - Potato
+        - Fingerling Potato
+        - Kipfler Potato
       - Potatoes
       - Prairie Turnip
       - Prussian Asparagus
       - Pumpkin
       - Purslane
       - Radicchio
-      - Radish
+      - Radish:
+        - Black Radish
+        - French Breakfast Radish
+        - Watermelon Radish
       - Rapini
       - Rhubarb
       - Rutabaga
@@ -618,7 +652,10 @@ FoodTypes:
       - Spring Onion (Scallion or Welsh Onion) 
       - Winter Melon (ash or white gourd)   
       - Winter Purslane
-      - Winter Squash
+      - Winter Squash:
+        - Butternut Squash
+        - Acorn Squash
+        - Kabocha Squash
       - Yacon
       - Yam
       - Zucchini (Courgette)
@@ -645,6 +682,7 @@ FoodTypes:
         - Pretzel Salt
         - Rock Salt
         - Seasoned Salt
+    - Sugar
   - Processed:
     - Bread
     - Flour:
@@ -678,10 +716,26 @@ FoodTypes:
         - Taco
         - Pizza
         - Bagel
+        - Tamales
+        - Chilaquilles
+        - Taquitos
+        - Empanadas
+    - Pasta:
+        - Ravioli
+        - Spaghetti
     - Oils:
         - Avocado Oil
         - Canola Oil
         - Olive Oil
+    - Cured Meat:
+        - Guanciale
+        - Pancetta
+        - Bacon
+        - Prosciutto
+        - Salumi
+    - Confectionary:
+        - Caramel
+        - Chocolate Truffle
        
   - Manufactured
 
