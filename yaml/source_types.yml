@@ -84,6 +84,7 @@ PreModifications:
     - Goat: 62127546-8239-11e0-96db-001a6bce9a58
   - rename:
     - Oat: Oats
+    - Chese Maker: cheese maker
   #- rename:
   #  - Abbey: Abbey (Beer)
   #  - Ale: Ale (Beer)
@@ -94,6 +95,7 @@ PreModifications:
   #  - Porter: Porter (Beer)
   #  - Scotch Ale: Scotch Ale (Beer)
   #  - Stout: Stout (Beer)
+
 
 
 #these will run after the new foodtypes tree is inserted
